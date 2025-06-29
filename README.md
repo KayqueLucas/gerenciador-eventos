@@ -99,5 +99,3 @@ Este projeto é apenas para fins acadêmicos e educacionais. Todos os direitos r
 ---
 
 > Desenvolvido com 💻 por Kayque Lucas.
-# gerenciador-eventos
-# gerenciador-eventos
