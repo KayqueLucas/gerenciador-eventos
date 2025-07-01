@@ -46,13 +46,6 @@ O sistema permite o gerenciamento completo de eventos acadêmicos, como workshop
 
 ---
 
-## 🎥 Demonstração em Vídeo
-
-📺 Assista ao vídeo pitch com a explicação e demonstração do projeto:
-
-> 🔗 [Link para o vídeo no YouTube](https://youtube.com/seu-video)
-
----
 
 ## 📸 Prints do Sistema
 
